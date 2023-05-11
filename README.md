@@ -6,7 +6,7 @@
 
 ### Hi there 👋
 
-  [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://kwongholee.github.io/)](https://kwongholee.github.io/)
+  [![Tech Blog Badge](http://img.shields.io/badge/-kwongholee%20profile-black?style=flat-square&logo=github&link=https://github.com/kwongholee)](https://github.com/kwongholee)
   
   [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ghlee9883@gmail.com)](mailto:ghlee9883@gmail.com)
 
