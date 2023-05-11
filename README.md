@@ -6,8 +6,7 @@
 
 ### Hi there 👋
 
-  [![Tech Blog Badge](http://img.shields.io/badge/-kwongholee%20profile-black?style=flat-square&logo=github&link=https://github.com/kwongholee)](https://github.com/kwongholee)
-  
+  [![Tech Blog Badge](http://img.shields.io/badge/-kwongholee%20repository-black?style=flat-square&logo=github&link=https://github.com/kwongholee?tab=repositories)](https://github.com/kwongholee?tab=repositories)
   [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ghlee9883@gmail.com)](mailto:ghlee9883@gmail.com)
 
   [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=kwongholee)](https://github.com/anuraghazra/github-readme-stats)
