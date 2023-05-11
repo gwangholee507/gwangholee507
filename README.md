@@ -4,7 +4,7 @@
 	
   </div>
 
-### Hi there 👋
+### 👋 Welcome to my profile! My name is Kwongho Lee 👋
 
   [![Tech Blog Badge](http://img.shields.io/badge/-kwongholee%20repository-black?style=flat-square&logo=github&link=https://github.com/kwongholee?tab=repositories)](https://github.com/kwongholee?tab=repositories)
   [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ghlee9883@gmail.com)](mailto:ghlee9883@gmail.com)
