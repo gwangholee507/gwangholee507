@@ -30,7 +30,7 @@ Computer Network Service - to manage the relationship between server to server n
 
 - System Architecture
 
-##  📫 How to reach me [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ghlee9883@gmail.com)](mailto:ghlee9883@gmail.com)
+#  📫 How to reach me [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ghlee9883@gmail.com)](mailto:ghlee9883@gmail.com)
 
 
 <!--
