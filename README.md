@@ -7,8 +7,7 @@
 ### 👋 Welcome to my profile! My name is Kwongho Lee 👋
 
   [![Tech Blog Badge](http://img.shields.io/badge/-kwongholee%20repository-black?style=flat-square&logo=github&link=https://github.com/kwongholee?tab=repositories)](https://github.com/kwongholee?tab=repositories)
-  [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ghlee9883@gmail.com)](mailto:ghlee9883@gmail.com)
-
+  
   [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=kwongholee)](https://github.com/anuraghazra/github-readme-stats)
   
   ## My Tech Stack
@@ -17,7 +16,21 @@
   
   <img src="https://img.shields.io/badge/flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"><img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white"><img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"><img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
 
-  
+## What I want to do?
+
+Fullstack Service Developer - can manage both 'CLIENT' and 'SERVER' either!
+
+Computer Network Service - to manage the relationship between server to server network!
+
+## To be a Good Developer, What about keeping these rules! Let's keep these rules in projects so that can be my potfolio!!!
+
+- Scrum Master
+
+- PM(Project Manager) or PL(Project Leader)
+
+- System Architecture
+
+##  📫 How to reach me [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ghlee9883@gmail.com)](mailto:ghlee9883@gmail.com)
 
 
 <!--
