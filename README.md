@@ -6,8 +6,8 @@
 
 ### 👋 Welcome to my profile! My name is Kwongho Lee 👋
 
-  [![Tech Blog Badge](http://img.shields.io/badge/-kwongholee%20repository-black?style=flat-square&logo=github&link=https://github.com/kwongholee?tab=repositories)](https://github.com/kwongholee?tab=repositories)
-  
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=kwongholee)](https://github.com/anuraghazra/github-readme-stats)
+
   
 ## My Tech Stack
   
@@ -33,7 +33,8 @@ Computer Network Service - to manage the relationship between server to server n
 
 - Want my email? [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ghlee9883@gmail.com)](mailto:ghlee9883@gmail.com)
 
-- Want my repository?  [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=kwongholee)](https://github.com/anuraghazra/github-readme-stats)
+- Want my repository? [![Tech Blog Badge](http://img.shields.io/badge/-kwongholee%20repository-black?style=flat-square&logo=github&link=https://github.com/kwongholee?tab=repositories)](https://github.com/kwongholee?tab=repositories)
+
 
 <!--
 **kwongholee/kwongholee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
