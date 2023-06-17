@@ -4,7 +4,7 @@
 	
   </div>
 
-### 👋 Welcome to my profile! My name is Kwongho Lee 👋
+# 👋 Welcome to my profile! My name is Kwongho Lee 👋
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=kwongholee)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -29,7 +29,7 @@ Computer Network Service - to manage the relationship between server to server n
 
 - System Architecture
 
-#  📫 How to reach me 
+###  📫 How to reach me 
 
 - Want my email? [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ghlee9883@gmail.com)](mailto:ghlee9883@gmail.com)
 
