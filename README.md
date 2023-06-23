@@ -23,7 +23,7 @@ Computer Network Service - to manage the relationship between server to server n
 
 ## To be a Good Developer, What about keeping these rules! Let's keep these rules in projects so that can be my portfolio!!!
 
-- Scrum Master
+- Backend Server Developer
 
 - PM(Project Manager) or PL(Project Leader)
 
