@@ -25,6 +25,8 @@ Computer Network Service - to manage the relationship between server to server n
 
 - Backend Server Developer
 
+- Fullstack Developer
+
 - PM(Project Manager) or PL(Project Leader)
 
 - System Architecture
