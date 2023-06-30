@@ -6,9 +6,7 @@
 
 # 👋 Welcome to my profile! My name is Kwongho Lee 👋
 
-<div align="center">
-	[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=kwongholee)](https://github.com/anuraghazra/github-readme-stats)
-</div>
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=kwongholee)](https://github.com/anuraghazra/github-readme-stats)
 
   
 ## 📚 My Tech Stack 📚
