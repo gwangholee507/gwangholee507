@@ -39,7 +39,7 @@ Computer Network Service - to manage the relationship between server to server n
 
 - Want my instargram? <a href="https://www.instagram.com/i_gogh_03/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/hye_inisfree/"/></a>
 
-## 🔭 I’m currently working on
+## 🔭 Want to see my Products?
 
 - <a href="https://www.kwongho-sprint.kr">Kwongho's Sprint Page</a>
 
