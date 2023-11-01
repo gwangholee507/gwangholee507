@@ -1,6 +1,8 @@
   <div align=center>
 	
   [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fzzsza)](https://hits.seeyoufarm.com) 
+  [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=ghlee9883)](https://solved.ac/ghlee9883)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kwongholee&layout=Demo&theme=onedark)
 	
   </div>
 
@@ -42,6 +44,7 @@ Computer Network Service - to manage the relationship between server to server n
 ## 🔭 Want to see my Products?
 
 - <a href="https://www.kwongho-sprint.kr">Kwongho's Sprint Page</a>
+- <a href="https://www.ghblog.blog">GHBlog</a>
 
 
 <!--
