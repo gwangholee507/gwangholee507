@@ -3,7 +3,6 @@
 <div align=center>
 	 
   [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=ghlee9883)](https://solved.ac/ghlee9883)
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kwongholee&layout=compact&theme=onedark)
   [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=kwongholee)](https://github.com/anuraghazra/github-readme-stats)
  
   </div>
