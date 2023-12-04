@@ -30,6 +30,10 @@ Computer Network Service - to manage the relationship between server to server n
 
 - System Architecture
 
+##  ⚡ My Activities ⚡
+
+- 2023년도 경희대학교 컴퓨터공학부 부학생회장 
+
 ##  📫 How to reach me 
 
 - Want my email? [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ghlee9883@gmail.com)](mailto:ghlee9883@gmail.com)
@@ -38,10 +42,10 @@ Computer Network Service - to manage the relationship between server to server n
 
 - Want my instargram? <a href="https://www.instagram.com/i_gogh_03/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/hye_inisfree/"/></a>
 
-## 🔭 Want to see my Products?
+## 🔭 Want to see my Results?
 
 - <a href="https://www.kwongho-sprint.kr">Kwongho's Sprint Page</a>
-- <a href="https://www.ghblog.blog">GHBlog</a>
+- <a href="https://www.ghblog.blog">GHBlog (미완성)</a>
 
 
 <!--
