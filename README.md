@@ -32,7 +32,8 @@ Computer Network Service - to manage the relationship between server to server n
 
 ##  ⚡ My Activities ⚡
 
-- 2023년도 경희대학교 컴퓨터공학부 부학생회장 
+- 2023년도 경희대학교 컴퓨터공학부 부학생회장
+- 2022년도 경희대학교 컴퓨터공학부 학생회 집행부원
 
 ##  📫 How to reach me 
 
