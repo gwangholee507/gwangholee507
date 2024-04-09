@@ -46,6 +46,8 @@ Computer Network Service - to manage the relationship between server to server n
 
 - Want my instargram? <a href="https://www.instagram.com/i_gogh_03/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/hye_inisfree/"/></a>
 
+- Want my TechBlog?  <a href="https://velog.io/@ghlee9883"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@zaman17"/></a>
+
 ## 🔭 Want to see my Results?
 
 - <a href="https://www.kwongho-sprint.kr">Kwongho's Sprint Page</a>
