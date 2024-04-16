@@ -50,8 +50,8 @@ Computer Network Service - to manage the relationship between server to server n
 
 ## 🔭 Want to see my Results?
 
+- <a href="http://onlstudies.com/">온라인 스터디 플랫폼</a>
 - <a href="https://www.kwongho-sprint.kr">Kwongho's Sprint Page</a>
-- <a href="https://www.ghblog.blog">GHBlog (미완성)</a>
 
 
 <!--
