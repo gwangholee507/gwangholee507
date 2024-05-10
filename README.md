@@ -31,6 +31,7 @@ Fullstack Service Developer - can manage both 'CLIENT' and 'SERVER' either!
   - 2022년도 경희대학교 컴퓨터공학부 동아리 대항전 장려상
 - 2023
   - 2023년도 컴퓨터공학부 부학생회장
+  - 2023년도 컴퓨터공학부 학술동아리 기획부장
 
 ##  📫 How to reach me 
 
