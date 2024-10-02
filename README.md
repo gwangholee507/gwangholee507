@@ -45,9 +45,6 @@ Fullstack Service Developer - can manage both 'CLIENT' and 'SERVER' either!
 
 ## 🔭 Want to see my Results?
 
-- <a href="http://onlstudies.com/">온라인 스터디 플랫폼</a>
-- <a href="https://www.kwongho-sprint.kr">Kwongho's Sprint Page</a>
-
 
 <!--
 **kwongholee/kwongholee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
