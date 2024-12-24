@@ -16,10 +16,6 @@
 
 ## What I want to do?
 
-Fullstack Service Developer - can manage both 'CLIENT' and 'SERVER' either!
-
-## To be a Good Developer, What about keeping these rules! Let's keep these rules in projects so that can be my portfolio!!!
-
 - Backend Server Developer
 
 - Fullstack Developer
