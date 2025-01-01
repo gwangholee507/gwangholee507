@@ -1,4 +1,4 @@
-# 👋 Welcome to my profile! My name is Kwongho Lee 👋
+# 👋 Welcome to my profile! My name is Gwangho Lee 👋
 
 <div align=center>
 	 
