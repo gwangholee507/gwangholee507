@@ -27,7 +27,7 @@
 
 - Want my email? [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ghlee9883@gmail.com)](mailto:ghlee9883@gmail.com)
 
-- Want my repository? [![Tech Blog Badge](http://img.shields.io/badge/-kwongholee%20repository-black?style=flat-square&logo=github&link=https://github.com/gwangholee507?tab=repositories)](https://github.com/gwangholee507?tab=repositories)
+- Want my repository? [![Tech Blog Badge](http://img.shields.io/badge/-gwangholee507%20repository-black?style=flat-square&logo=github&link=https://github.com/gwangholee507?tab=repositories)](https://github.com/gwangholee507?tab=repositories)
 
 - Want my instargram? <a href="https://www.instagram.com/i_gogh_03/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/hye_inisfree/"/></a>
 
